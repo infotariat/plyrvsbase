@@ -1,0 +1,3 @@
+The glory and hell of R is that there are many, many ways to do most things.  plyr is a package by Hadley Wickham that reimagines many of base R's functions for split-apply-combine tasks.  This repository provides a very basic overview of how plyr's functions compare with base funcntions for split-apply-combine.  Start with the slides (plyrvsbase.pdf).
+
+Originally presented by Matt Parker to the Denver R User Group on 2012-06-19.
